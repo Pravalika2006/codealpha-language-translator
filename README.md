@@ -21,3 +21,5 @@ A web application that translates text between 100+ languages using Python, Stre
 2. Install dependencies:
 ```bash
 pip install -r requirements.txt
+## Screenshot
+![Language Translation Tool](screenshot.png.jpeg)
